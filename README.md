@@ -3,7 +3,6 @@
 
 ---
 ## 🏗 SOC Architecture Diagram
----
 
 <p align="center">
   <img src="assets/soc architecture.png" width="900">
