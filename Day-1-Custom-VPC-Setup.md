@@ -1,7 +1,7 @@
 ## 🏗 VPC Configuration Diagram
 
 <p align="center">
-  <img src="vpc-configuration.png" width="800">
+  <img src="assets/vpc-configuration.png" width="800">
 </p>
 
 
