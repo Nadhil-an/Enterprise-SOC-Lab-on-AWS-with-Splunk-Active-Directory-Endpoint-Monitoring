@@ -2,7 +2,12 @@
 ### Splunk SIEM with Active Directory, Windows Endpoint & Web Server Monitoring
 
 ---
+## 🏗 SOC Architecture Diagram
+---
 
+<p align="center">
+  <img src="assets/soc architecture.png" width="900">
+</p>
 
 
 
