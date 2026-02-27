@@ -26,7 +26,9 @@ This means:
 
 ## 📸 Splunk Deployment Architecture
 
-![Architecture Diagram](images/day2-architecture.png)
+<p align="center">
+  <img src="assets/splunk-architecture.png" width="800">
+</p>
 
 ---
 
@@ -58,7 +60,9 @@ Allow the following inbound ports:
 
 ## 📸 EC2 Instance Running
 
-![EC2 Running](images/day2-ec2-running.png)
+<p align="center">
+  <img src="assets/splunk-ec2-instance-running.png" width="800">
+</p>
 
 ---
 
@@ -119,7 +123,9 @@ sudo ./splunk start
 
 ## 📸 Splunk Installation Output
 
-![Splunk Install](images/day2-splunk-install.png)
+<p align="center">
+  <img src="assets/ubuntu-installation.png" width="800">
+</p>
 
 ---
 
@@ -143,7 +149,11 @@ Login using admin credentials.
 
 ## 📸 Splunk Web Login Page
 
-![Splunk Login](images/day2-splunk-login.png)
+
+<p align="center">
+  <img src="assets/splunk-running.png" width="800">
+</p>
+
 
 ---
 
